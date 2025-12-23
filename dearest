@@ -370,7 +370,7 @@ Scale.Parent = ScaledHolder
 
 -- Title Bar - Always visible at bottom right
 Title = Instance.new("Frame")
-Title.Name = "badinfiniteyield"
+Title.Name = "Dearest"
 Title.Parent = ScaledHolder
 Title.Active = true
 Title.BackgroundColor3 = colors.bgSecondary
@@ -394,7 +394,7 @@ titleText.Size = UDim2.new(1, -40, 1, 0)
 titleText.Position = UDim2.new(0, 12, 0, 0)
 titleText.Font = Enum.Font.RobotoMono
 titleText.TextSize = 14
-titleText.Text = "badinfiniteyield"
+titleText.Text = "Dearest"
 titleText.TextColor3 = colors.textPrimary
 titleText.TextXAlignment = Enum.TextXAlignment.Left
 titleText.ZIndex = 21
